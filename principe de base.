@@ -2,4 +2,7 @@
 le principe de departt et de crée un pilulier " connecté " afin de savoir si la personne utilisan du pilulier respect bien la prise des cachets le matin et le soir 
 sur une semaine complete.
 jai donc pensé une vesion fixe acroché au mur et une autre mobile pour partir en vacanc
-la version fixe est composée d'un ecran pour la visualisation de la pise de cachet sans avoir a ouvrir l'armoire, un RPI 3B+, un alimentation separé 5A et un nadhatv1 gsm + puce free.
+la version fixe est composée d'un ecran pour la visualisation de la pise de cachet sans avoir a ouvrir l'armoire, un RPI 3B+,   
+une alimentation separé de 5A, un carte nadhatv1 gsm avec carte free, du fil blindé pour cablage des contact.
+
+la version  mobile est composé du RPI  ZERO W, un nadhatv1  et d'une imprimante 3D
